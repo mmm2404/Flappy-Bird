@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url(./sprites/main\ bg.png);
+  }
+
+  #canvas{
+
+    padding-top: 100px;
+    padding-left: 100px;
+    position: absolute;
+  }
+
+  .start{
+    padding-left: 100px;
+    font: 40px Verdana bold;
+    display:block;
+
+ 
+
+  }
+
+  .game{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
